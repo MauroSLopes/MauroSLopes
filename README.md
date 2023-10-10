@@ -2,15 +2,15 @@
 Olá, meu nome é Mauro Santos Lopes! Sou Baiano nascido em 2003 na cidade de Santo Amaro. 
 
 ### Principais caracteristicas. 🎨
->  - Sou um aspirante a GameDev 🎮 e a Web Developer 🌐.
+- Sou um aspirante a GameDev 🎮 e a Web Developer 🌐.
 
-> - Trabalho bem em equipe. 👪
+- Trabalho bem em equipe. 👪
 
-> - Possuo bom pensamento logico. 👩‍💻
+- Possuo bom pensamento logico. 👩‍💻
 
-> - Formado em Tecnico em informatica pelo Instituto Federal de Educação, Ciência e Tecnologia da Bahia - Campus Santo Amaro. 🎓
+- Formado em Tecnico em informatica pelo Instituto Federal de Educação, Ciência e Tecnologia da Bahia - Campus Santo Amaro. 🎓
 
-> - Atualmente Cursando Bacharelado Interdisciplinar em Ciências e Tecnologia na Universidade Federal da Bahia. 🎓
+- Atualmente Cursando Bacharelado Interdisciplinar em Ciências e Tecnologia na Universidade Federal da Bahia. 🎓
 
 ### Principais habilidades. 🧾
 - Habilidades que possuo conhecimento.
