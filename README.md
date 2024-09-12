@@ -22,7 +22,7 @@ Hello, my name is Mauro Santos Lopes! I'm from Bahia in Brazil, born in 2003 in 
 
 - 🎓 Graduated in Computer Technician by Instituto Federal de Educação, Ciência e Tecnologia da Bahia - Campus Santo Amaro. 
 
-- 🎓 Currently studying Interdisciplinary Bachelor's Degree in Science and Technology in Universidade Federal da Bahia. 
+- 🎓 Currently in Computer Cience course by Unifacs. 
 
 ### Contatos. 📞
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauro-santos-lopes-011b3025b/)
