@@ -1,30 +1,33 @@
 ## 🎈 Who am i? 
-Hello, my name is Mauro Santos Lopes! I'm from Bahia in Brazil, born in 2003 in Santo Amaro city.
 
-### 🧾 Main abilities. 
-- Skills that i know.
+- My name is Mauro Santos Lopes! I'm from Bahia in Brazil, born in 2003 in Santo Amaro. 🏖
+  
+- Currently, i'm learning a lot of C#, focusing in back-end development. 👨‍💻
+  
+- I love games, cooking and solving logical problemns. 🤓
+  
+- In the future i will be a Game Developer! ⚙
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+## ⚙ Skill Set
+### 🧾 Main Skills. 
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Main Skills](https://skillicons.dev/icons?i=cs,unity,js,mysql,git)
 
-### 🎨 Main characteristics. 
-- An aspiring Game Developer 🎮 and Full Stack developer ⚙.
+### 📚 Current Learning
 
-- 👪 A good team worker. 
+![Learning Skills](https://skillicons.dev/icons?i=net,angular)
 
-- 👩‍💻 A good logical thinker. 
+### 🕑 Want to Learn
 
-- 🎓 Graduated in Computer Technician by Instituto Federal de Educação, Ciência e Tecnologia da Bahia - Campus Santo Amaro. 
+![Future Skills](https://skillicons.dev/icons?i=arduino,unreal,react,nextjs)
 
-- 🎓 Currently in Computer Cience course by Unifacs. 
+### 👨‍💻 Need more practice
 
-### Contatos. 📞
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauro-santos-lopes-011b3025b/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mauro.slopes06@gmail.com)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MauroSLopes)
+![Practice skills](https://skillicons.dev/icons?i=java,typescript,photoshop)
+
+### Where to find me? 📞
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mauro-santos-lopes-011b3025b)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:Mauro.slopes06@gmail.com)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/MauroSLopes)
+##
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MauroSLopes&layout=compact&theme=onedark)
